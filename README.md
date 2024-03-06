@@ -24,6 +24,6 @@
       <a href="https://instagram.com/guicossauro" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guicossauro" height="30" width="40" /></a>
       <a href="https://twitter.com/guicossauro" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guicossauro" height="30" width="40" /></a>
   </p>
+  
+  <img src="https://media.tenor.com/6TdEhZ0g3WQAAAAd/dog-doggo.gif" alt="gif" align="left" width="30%">
 </div>
-
-<img src="https://media.tenor.com/6TdEhZ0g3WQAAAAd/dog-doggo.gif" alt="gif" align="left" style="max-width: 40%; height: auto;">
