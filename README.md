@@ -14,14 +14,20 @@ Always seeking to learn! 🚀
 Languages and Tools
 </h4>
 
-<div style="display: inline-block;">
-    <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=5505a1" alt="JavaScript" style="height: 30px;">
-    <img src="https://img.shields.io/badge/-CSS-000000?style=flat-square&logo=CSS3&logoColor=5505a1" alt="CSS" style="height: 30px;">
-    <img src="https://img.shields.io/badge/-HTML-000000?style=flat-square&logo=html5&logoColor=5505a1" alt="HTML5" style="height: 30px;">
-    <img src="https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=5505a1" alt="MySQL" style="height: 30px;">
-    <img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=5505a1" alt="Python" style="height: 30px;">
-    <img src="https://img.shields.io/badge/-Flutter-000000?style=flat-square&logo=flutter&logoColor=5505a1" alt="Flutter" style="height: 30px;">    
+<div style="display: flex; flex-wrap: wrap;">
+    <div style="flex: 0 0 66.66%; max-width: 66.66%;">
+        <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=5505a1" alt="JavaScript" style="height: 30px; margin-bottom: 10px; display: block;">
+        <img src="https://img.shields.io/badge/-CSS-000000?style=flat-square&logo=CSS3&logoColor=5505a1" alt="CSS" style="height: 30px; margin-bottom: 10px; display: block;">
+        <img src="https://img.shields.io/badge/-HTML-000000?style=flat-square&logo=html5&logoColor=5505a1" alt="HTML5" style="height: 30px; margin-bottom: 10px; display: block;">
+    </div>
+    <div style="flex: 0 0 66.66%; max-width: 66.66%;">
+        <img src="https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=5505a1" alt="MySQL" style="height: 30px; margin-bottom: 10px; display: block;">
+        <img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=5505a1" alt="Python" style="height: 30px; margin-bottom: 10px; display: block;">
+        <img src="https://img.shields.io/badge/-Flutter-000000?style=flat-square&logo=flutter&logoColor=5505a1" alt="Flutter" style="height: 30px; margin-bottom: 10px; display: block;">    
+    </div>
 </div>
+
+
 
 <h4 align="left">
 Learning
