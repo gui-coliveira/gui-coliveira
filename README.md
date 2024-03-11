@@ -1,33 +1,44 @@
-<h1 align="center">Oi 👋, me chamo Guilherme Oliveira</h1>
-<h3 align="center">Cristão apaixonado por gadgets, jogos e tecnologia!</h3>
+<img src="https://media.tenor.com/6TdEhZ0g3WQAAAAd/dog-doggo.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<h3 align="left"> 
+  Cristão apaixonado por gadgets, jogos e tecnologia. <br>
+  Sempre buscando aprender! 🚀    
+</h3>
+
+<h3 align="left">
+Languages and Tools <br>
+</h3>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-26004a?style=flat-square&logo=javascript)
+![CSS](https://img.shields.io/badge/-CSS-26004a?style=flat-square&logo=CSS3&logoColor=1572B6)
+![HTML5](https://img.shields.io/badge/-HTML5-26004a?style=flat-square&logo=HTML5)
+![MySQL](https://img.shields.io/badge/-MySQL-26004a?style=flat-square&logo=mysql)
+![Python](https://img.shields.io/badge/-Python-26004a?style=flat-square&logo=python&logoColor=ffdd54)
+![Flutter](https://img.shields.io/badge/-Flutter-26004a?style=flat-square&logo=Flutter&logoColor=0490b3)
+
+
 <br>
 
-- 🌱 Learning: **Azure & Python**
+<h4 align="left">
+  Connect with me
+</h4>
 
-- 💬 **Português & English**
+![Linkedin](https://img.shields.io/badge/-Linkedin-26004a?style=flat-square&logo=linkedin&link=www.linkedin.com/in/gui-coliveira/)
+![CSS](https://img.shields.io/badge/-CSS-26004a?style=flat-square&logo=CSS3&logoColor=1572B6)
+![HTML5](https://img.shields.io/badge/-HTML5-26004a?style=flat-square&logo=HTML5)
+![MySQL](https://img.shields.io/badge/-MySQL-26004a?style=flat-square&logo=mysql)
+![Python](https://img.shields.io/badge/-Python-26004a?style=flat-square&logo=python&logoColor=ffdd54)
+![Flutter](https://img.shields.io/badge/-Flutter-26004a?style=flat-square&logo=Flutter&logoColor=0490b3)
 
-<br>
-
-<div style="display: inline-block;">
-    <h3 align="left">Languages and Tools:</h3>
-    <p align="left"> 
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-        <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-        <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-        <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-    </p>
-<br>
-    
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
-      <a href="https://linkedin.com/in/gui-coliveira" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gui-coliveira" height="30" width="40" /></a>
-      <a href="https://instagram.com/guicossauro" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guicossauro" height="30" width="40" /></a>
-      <a href="https://twitter.com/guicossauro" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guicossauro" height="30" width="40" /></a>
-  </p>
-  
-  <img src="https://media.tenor.com/6TdEhZ0g3WQAAAAd/dog-doggo.gif" alt="gif" align="left" width="30%">
-</div>
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gui-coliveira/" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+  <a href="#" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
