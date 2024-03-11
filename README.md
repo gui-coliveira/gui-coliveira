@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, me chamo Guilherme Oliveira</h1>
-<h3 align="center">Cristão apaixonado por gadgets (bugiganga), jogos e tecnologia!</h3>
+<h3 align="center">Cristão apaixonado por gadgets, jogos e tecnologia!</h3>
 <br>
 
 - 🌱 Aprendendo: **Azure & React**
