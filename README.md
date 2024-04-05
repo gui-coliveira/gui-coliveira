@@ -44,8 +44,8 @@ Learning
 [![Instagram](https://img.shields.io/badge/-Instagram-9302b8?style=flat-square&logo=Instagram&logoColor=000000&link=https://www.instagram.com/guicossauro)](https://www.instagram.com/guicossauro)
 <br><br>
 
+<!---
 <a href="https://github.com/gui-coliveira" title="Guico Profile">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gui-coliveira&theme=midnight-purple&show_icons=true&hide=stars" />
 </a>
-
-
+-->
